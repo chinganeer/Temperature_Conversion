@@ -1,6 +1,6 @@
 import sys
 
-# Var dec is redundant programmatically. I am used to C#, it helps me keep track of my variables.
+# Var dec is un-needed. I am used to C#, sue me.
 usrInput = 'NULL'
 convOrder = 'NULL'
 preConv = 0
